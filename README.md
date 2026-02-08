@@ -6,5 +6,7 @@ Introduce the basic syntax and structure of the C programming language.
 Teach students how to write and compile simple C programs.  
 
 Task 1
-task 2
+
+Task 2
+
 Task 3
